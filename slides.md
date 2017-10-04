@@ -12,13 +12,13 @@ date: 2017-10-07
 MediaWiki
   : Wiki-Software
 
-Wikipedias
-  : Wiki-basierte Open Content-Projekte
-
 Wikimedia
   : Organisationen und Interessensgruppen
 
-Wiki...
+Wikipedias
+  : Wiki-basierte Open Content-Projekte
+
+...
   : Weitere Wikimedia-Projekte
 
 *Viele verschiedene Communities und Individuen*
@@ -127,7 +127,7 @@ Wikipedia
  : Erklärung von Grundbegriffe und Grundlagen
 
 Commons
- : Veröffentlichung von Mediendateien
+ : Veröffentlichung von Mediendateien & Daten
 
 Wikidata
  : Strukturierte Daten und Namen von Entitäten\
@@ -136,14 +136,14 @@ Wikidata
 Wikisource
  : Primärquellen
 
-*Nicht akademische Veröffentlichung aber Mehrfachnutzung möglich!*
+*Beiträge in Wikimedia-Projekten sind keine akademischen Veröffentlichung, zusätzliche Verwertung ist aber sinnvoll!*
 
 ## In Kontakt treten
 
 * Diskussionsseiten und Portale
 * Mailinglisten
-* IRC
 * Phabricator
+* IRC
 * Twitter, Facebook...
 * Direkte Treffen (Wikimania, WikiCon, Stammtische...)
 
@@ -151,10 +151,15 @@ Wikisource
 
 *Kommunikation mit Individuen statt mit Organisationen*
 
+---
+
+![](wikitionary-wikispecies-thread.png)
+
+
 ## Gemeinsam Freies Wissen verbessern
 
-* Verschiedene Anknüpfungspunkte\
-  Wikipdia, Commons, Wikidata, Wikimedia Research...
+* Verschiedene Anknüpfungspunkte: Wikipedia,\
+  Commons, Wikidata, Wikimedia Research, WikiCite...
 
 * Verschiedene Communities und Individuen
 
